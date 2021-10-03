@@ -13,6 +13,8 @@ import java.util.Arrays;
 public class SpringbootBackendApplication {
 
     public static void main(String[] args) {
+
+        System.out.println("Aswrwb jenkins");
         SpringApplication.run(SpringbootBackendApplication.class, args);
     }
 
